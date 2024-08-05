@@ -4,3 +4,5 @@ This project was part of my data analytics course with Career Foundry. In this p
 The scripts comprise of questions set out for the project and my methods of solving them.
 
 The were 5 datasets provided including sperate data for customers, products and orders for example. These needed to be analysed and merged as appropriate.
+
+During this process there were several new variables created based on the needs of the fictional business department of Instacart.
